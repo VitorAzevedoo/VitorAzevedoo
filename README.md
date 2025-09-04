@@ -1,8 +1,8 @@
  ## Seja muito bem vindo(a)!
  
 - 👋 Olá, eu sou o Vitor Azevedo!
-- 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas
-- 🖥️ Procurando por oportunidade na área de Tecnologia
+- 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas e do Programa Oracle Next Education.
+- 🖥️ Procurando por oportunidade na área de Tecnologia!
 <div style="display: inline_block"><br>
   <img align="center" alt="Vitor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vitor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
